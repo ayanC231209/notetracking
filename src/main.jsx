@@ -6,11 +6,13 @@ import { RouterProvider } from "react-router/dom";
 import './index.css'
 import App from './App.jsx'
 import Root from './Layout/Root.jsx';
-import Login from './components/login.jsx';
+Login
+
 import Navbar from './components/Navbar.jsx';
-import Signup from './components/signup.jsx';
-import Notes from './components/notes.jsx';
+import Signup from './components/Signup.jsx';
+import Notes from './components/Notes.jsx';
 import Home from './components/Home.jsx';
+import Login from './components/Login.jsx';
 
 const router = createBrowserRouter([
   {
